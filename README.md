@@ -47,4 +47,3 @@ Each of your assignment will be assessed on following capabilities and dimension
 1. See What is GitHub? https://www.youtube.com/watch?v=w3jLJU7DT5E
 2. Sign up on GitHub and perform https://guides.github.com/activities/hello-world/
 3. Group exercise: Build a collective definition of what is a good algorithm
-4. Group exercise: Build your research protocol
