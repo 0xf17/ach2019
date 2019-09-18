@@ -28,7 +28,7 @@ Each of your assignment will be assessed on following capabilities and dimension
 2. Reflect
 3. Engage and Persist
 
-#### Checklist for Day 1
+### Checklist for Day 1
 1. The Secret Rules of Modern Living Algorithms (About 1 hr) https://www.youtube.com/watch?v=kiFfp-HAu64
 2. Small read from a popular text on Algorithms, "Introduction to Algorithms" (Sent on email).
 
