@@ -7,11 +7,11 @@ TBA
 ## Assessment
 Following are assessment criteria for this studio.
 
-A1 is considered as the progress of paper by end of the 3rd week (30% weight), 
+A1 is considered as the progress of assignment by end of the 3rd week (30% weight), 
 
-A2 as the progress of paper by end of 4th week (30% weight), and
+A2 as the progress of assignment by end of 4th week (30% weight), and
 
-A3 as the final paper due by the end of 5th week (40% weight).
+A3 as the final paper assignment by the end of 5th week (40% weight).
 
 Each of your assignment will be assessed on following capabilities and dimensions of practice.
 
