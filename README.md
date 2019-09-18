@@ -28,13 +28,21 @@ Each of your assignment will be assessed on following capabilities and dimension
 2. Reflect
 3. Engage and Persist
 
-### Day 1
-TBA
-
-#### Exercise for home
-1. See What is GitHub? https://www.youtube.com/watch?v=w3jLJU7DT5E
-2. Sign up on GitHub and follow https://guides.github.com/activities/hello-world/
-
-## Resources
+#### Checklist for Day 1
 1. The Secret Rules of Modern Living Algorithms (About 1 hr) https://www.youtube.com/watch?v=kiFfp-HAu64
 2. Small read from a popular text on Algorithms, "Introduction to Algorithms" (Sent on email).
+
+### Day 1 
+1. What is a (good) algorithm?
+2. What is the relevance of studying algorithm for a designer?
+3. Introduction to basic algorithms - Searching and Sorting
+4. Implementing those algorithms
+5. Designing an analysis experiment and preparing observation protocol
+6. Recording and plotting observations
+8. Assignment announcement and Grouping
+
+### Day 1 Exercises
+1. See What is GitHub? https://www.youtube.com/watch?v=w3jLJU7DT5E
+2. Sign up on GitHub and perform https://guides.github.com/activities/hello-world/
+3. Group exercise: Build a collective definition of what is a good algorithm
+4. Group exercise: Build your research protocol
