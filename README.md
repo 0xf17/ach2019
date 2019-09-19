@@ -38,12 +38,16 @@ Each of your assignment will be assessed on following capabilities and dimension
 1. What is a (good) algorithm?
 2. What is the relevance of studying algorithm for a designer?
 3. Introduction to basic algorithms - Searching and Sorting
-4. Implementing those algorithms
-5. Designing an analysis experiment and preparing observation protocol
-6. Recording and plotting observations
-8. Assignment announcement and Grouping
 
 ### Day 1 Exercises
 1. See What is GitHub? https://www.youtube.com/watch?v=w3jLJU7DT5E
 2. Sign up on GitHub and perform https://guides.github.com/activities/hello-world/
 3. Group exercise: Build a collective definition of what is a good algorithm
+4. Research about Computer architecture
+5. Complete runtime analysis of Linear Search algorithm
+
+### Day 2
+1. Implementing those algorithms
+2. Designing an analysis experiment and preparing observation protocol
+3. Recording and plotting observations
+4. Assignment announcement and Grouping
