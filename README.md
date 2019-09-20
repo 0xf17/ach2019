@@ -50,4 +50,8 @@ Each of your assignment will be assessed on following capabilities and dimension
 1. Implementing those algorithms
 2. Designing an analysis experiment and preparing observation protocol
 3. Recording and plotting observations
-4. Assignment announcement and Grouping
+4. ~~Assignment announcement and Grouping~~
+
+### Day 2 Exercises
+1. Runtime analysis based on the given objectives for Binary Search, Merge Sort and/or Quick Sort. (Submission: Week 2 Thursday)
+
