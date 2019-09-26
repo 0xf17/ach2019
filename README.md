@@ -54,9 +54,8 @@ Each of your assignment will be assessed on following capabilities and dimension
 1. Counting Arithmetic instructions
 2. Making sense from Arithmetic instructions and manual time recording
 3. Predicting runtime based on arithmetic functions.
-More to come
 
-### Day 2 Exercises
+### Week 2 Exercises
 1. Calculating the number of arithmetic steps required by algorithm (Exercise will be sent over email)
 1. Runtime analysis based on the given objectives for Binary Search, Merge Sort and/or Quick Sort. (Submission: Week 2 Thursday)
 
