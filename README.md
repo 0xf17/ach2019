@@ -34,24 +34,29 @@ Each of your assignment will be assessed on following capabilities and dimension
 1. The Secret Rules of Modern Living Algorithms (About 1 hr) https://www.youtube.com/watch?v=kiFfp-HAu64
 2. Small read from a popular text on Algorithms, "Introduction to Algorithms" (Sent on email).
 
-### Day 1 
+### Week 1
 1. What is a (good) algorithm?
 2. What is the relevance of studying algorithm for a designer?
 3. Introduction to basic algorithms - Searching and Sorting
+4. Implementing those algorithms
+5. Designing an analysis experiment and preparing observation protocol
+6. Recording and plotting observations
+7. ~~Assignment announcement and Grouping~~
 
-### Day 1 Exercises
+### Week 1 Exercises
 1. See What is GitHub? https://www.youtube.com/watch?v=w3jLJU7DT5E
 2. Sign up on GitHub and perform https://guides.github.com/activities/hello-world/
 3. Group exercise: Build a collective definition of what is a good algorithm
 4. Research about Computer architecture
 5. Complete runtime analysis of Linear Search algorithm
 
-### Day 2
-1. Implementing those algorithms
-2. Designing an analysis experiment and preparing observation protocol
-3. Recording and plotting observations
-4. ~~Assignment announcement and Grouping~~
+### Week 2
+1. Counting Arithmetic instructions
+2. Making sense from Arithmetic instructions and manual time recording
+3. Predicting runtime based on arithmetic functions.
+More to come
 
 ### Day 2 Exercises
+1. Calculating the number of arithmetic steps required by algorithm (Exercise will be sent over email)
 1. Runtime analysis based on the given objectives for Binary Search, Merge Sort and/or Quick Sort. (Submission: Week 2 Thursday)
 
