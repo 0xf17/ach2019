@@ -49,6 +49,7 @@ Each of your assignment will be assessed on following capabilities and dimension
 3. Group exercise: Build a collective definition of what is a good algorithm
 4. Research about Computer architecture
 5. Complete runtime analysis of Linear Search algorithm
+6. Exercise 1: Runtime analysis of Binary Search, Merge Sort and Quick Sort
 
 ### Week 2
 1. Counting Arithmetic instructions
@@ -56,6 +57,6 @@ Each of your assignment will be assessed on following capabilities and dimension
 3. Predicting runtime based on arithmetic functions.
 
 ### Week 2 Exercises
-1. Calculating the number of arithmetic steps required by algorithm (Exercise will be sent over email)
+1. Exercise 2: Calculating the number of arithmetic steps required by algorithm (Exercise will be sent over email)
 1. Runtime analysis based on the given objectives for Binary Search, Merge Sort and/or Quick Sort. (Submission: Week 2 Thursday)
 
