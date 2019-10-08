@@ -2,8 +2,35 @@
 The theory formalizes the intuition that any design requires significant resources, by introducing mathematical models of computation to study its problems and quantifying the number of resources needed to solve them, such as time, storage and other relevant contextual parameters. Studying how efficiently problems can be solved on a model of computation, using an algorithm. What are the fundamental capabilities and limitations of computers?
 
 ## Assignment
-TBA
 
+### A1 (Individual exercise)
+- **A1.1** Group exercise: Build a collective definition of what is a good algorithm. While this was a group exercise, submit the collective definition (in the form of visual map as discussed in the class) but also include individual arguments if you have.
+    - Submission format. PDF file containing the picture and/or text. 
+    - Name your file as `A1.1-<YourFirstName>.PDF`.
+
+- **A1.2** Exercise 1: Runtime analysis of Binary Search, Merge Sort and/ Quick Sort
+    - Deliverables of each algorithm. (a) Pseudocode, (b) Your experiment protocol, (c) Experiment observations, (d) Analysis and results, (e) GitHub repo link containing algorithm implementation + test cases. 
+    - The analysis and results must be able to find the following.
+        - Find the relationship between size of the input array 'n' and total runtime for 't' iterations.
+        - Find the relationship between maximum allowed value of any element 'm' and total runtime for 't' iteration.
+        - Find the relationship between size of the input array 'n' and unit runtime (to execute one iteration of your algorithm).
+        - Find all the dependencies between 'n', 'm' and 't'.
+        - Find following runtimes for n=10^4 and m=10^5.
+            - Best runtime
+            - Avg. runtime
+            - Worst runtime (each by sampling atleast 10^3 observations)
+    - Submission format. PDF file containing all the above list of deliverables.
+    - Name your file as `A1.2-<BinarySearch|MergeSort|QuickSort>-<YourFirstName>.PDF`.
+    - Note that A1.2 has two PDF file submissions.
+        
+- **A1.3** Exercise 2: Calculating the number of arithmetic steps required by algorithm
+    - Deliverables of each algorithm. (a) Your code + arithmetic cost of each step, (b) Calculation of expression indicating total arithmetic cost of your algorithm in terms of 'n'. (Eg. `3n+1`), (c) Calculation of unit run time (from previous exercise), (d) Recalculating runtimes by the expression. Eg. Your runtime would `f(n)*(ut)`, where f(n) is your previous expression and `ut` being algorithm's unit runtime, (e) Plot the runtimes for various 'n' for both previous exercise and this exercise, (f) GitHub repo link containing algorithm implementation
+    - Submission format. PDF file containing all the above list of deliverables.
+    - Name your file as `A1.3-<BinarySearch|MergeSort|QuickSort>-<YourFirstName>.PDF`.
+    - Note that A1.2 has two PDF file submissions.
+   
+**Date of Submission for A1: 12th October 2019 11:59PM**
+    
 ## Assessment
 Following are assessment criteria for this studio.
 
@@ -46,10 +73,10 @@ Each of your assignment will be assessed on following capabilities and dimension
 ### Week 1 Exercises
 1. See What is GitHub? https://www.youtube.com/watch?v=w3jLJU7DT5E
 2. Sign up on GitHub and perform https://guides.github.com/activities/hello-world/
-3. Group exercise: Build a collective definition of what is a good algorithm
+3. Group exercise: Build a collective definition of what is a good algorithm (This is also part of A1)
 4. Research about Computer architecture
 5. Complete runtime analysis of Linear Search algorithm
-6. Exercise 1: Runtime analysis of Binary Search, Merge Sort and Quick Sort
+6. Exercise 1: Runtime analysis of Binary Search, Merge Sort and Quick Sort (This is also part of A1)
 
 ### Week 2
 1. Counting Arithmetic instructions
@@ -57,6 +84,6 @@ Each of your assignment will be assessed on following capabilities and dimension
 3. Predicting runtime based on arithmetic functions.
 
 ### Week 2 Exercises
-1. Exercise 2: Calculating the number of arithmetic steps required by algorithm (Exercise will be sent over email)
-1. Runtime analysis based on the given objectives for Binary Search, Merge Sort and/or Quick Sort. (Submission: Week 2 Thursday)
+1. Exercise 2: Calculating the number of arithmetic steps required by algorithm (Details are sent over email) (This is also part of A1) 
+1. Runtime analysis based on the given objectives for Binary Search, Merge Sort and/or Quick Sort. (Submission: Week 2 Thursday) (This is also part of A1)
 
