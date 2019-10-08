@@ -30,7 +30,21 @@ The theory formalizes the intuition that any design requires significant resourc
     - Note that A1.2 has two PDF file submissions.
    
 **Date of Submission for A1: 12th October 2019 11:59PM**
-    
+
+### A2 (Individual Exercise)
+- Final proposal to conduct a analysis study on a context of your choice.
+- Your proposal to ideally include (in any order) - 
+    - (a) Problem/Vision statement - One/two line summary of your inquiry.
+    - (b) Objectives of the study - What are the different things you want to study in the context?
+    - (c) Design intent - Why do you want to study the chosen context?
+    - (c) Background/Overview of the context - Synopsis highlighting important facts explaining the context  
+    - (d) Study Plan - How you plan to conduct the study? Design test cases similar to Exercise 1 and 2 but for your chosen context.
+- For rolling feedback, share your Google Doc with me and send me an email seeking feedback/review.
+- Submission format. PDF file containing all the above list of deliverables.
+- Name your file as `A2-<TitleOfYourStudy>-<YourFirstName>.PDF`.
+
+**Date of Submission for A2: 19th October 2019 11:59PM**
+
 ## Assessment
 Following are assessment criteria for this studio.
 
@@ -87,3 +101,9 @@ Each of your assignment will be assessed on following capabilities and dimension
 1. Exercise 2: Calculating the number of arithmetic steps required by algorithm (Details are sent over email) (This is also part of A1) 
 1. Runtime analysis based on the given objectives for Binary Search, Merge Sort and/or Quick Sort. (Submission: Week 2 Thursday) (This is also part of A1)
 
+### Week 3
+1. Discussion of Study proposals (A2).
+2. TBA
+
+### Week 3 Exercises
+1. TBA
