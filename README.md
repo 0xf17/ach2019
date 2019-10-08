@@ -3,7 +3,7 @@ The theory formalizes the intuition that any design requires significant resourc
 
 ## Assignment
 
-### A1 (Individual exercise)
+### A1 (Individual exercise) (30% weightage for your final grade)
 - **A1.1** Group exercise: Build a collective definition of what is a good algorithm. While this was a group exercise, submit the collective definition (in the form of visual map as discussed in the class) but also include individual arguments if you have.
     - Submission format. PDF file containing the picture and/or text. 
     - Name your file as `A1.1-<YourFirstName>.PDF`.
@@ -31,7 +31,7 @@ The theory formalizes the intuition that any design requires significant resourc
    
 **Date of Submission for A1: 12th October 2019 11:59PM**
 
-### A2 (Individual Exercise)
+### A2 (Individual Exercise) (30% weightage for your final grade)
 - Final proposal to conduct a analysis study on a context of your choice.
 - Your proposal to ideally include (in any order) - 
     - (a) Problem/Vision statement - One/two line summary of your inquiry.
@@ -47,12 +47,6 @@ The theory formalizes the intuition that any design requires significant resourc
 
 ## Assessment
 Following are assessment criteria for this studio.
-
-A1 is considered as the progress of assignment by end of the 3rd week (30% weight), 
-
-A2 as the progress of assignment by end of 4th week (30% weight), and
-
-A3 as the final paper assignment by the end of 5th week (40% weight).
 
 Each of your assignment will be assessed on following capabilities and dimensions of practice.
 
