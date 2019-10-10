@@ -101,6 +101,7 @@ Each of your assignment will be assessed on following capabilities and dimension
 3. Identifying deficiencies in current analysis.
 4. Remedial measures to refine analysis.
    - Designing micro test cases.
+   - Redesign rules to calculate costs.
 5. Final conclusions from analysis.
 6. Brief Introduction to order of growth (Theta notation)
 
