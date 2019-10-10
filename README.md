@@ -97,7 +97,12 @@ Each of your assignment will be assessed on following capabilities and dimension
 
 ### Week 3
 1. Discussion of Study proposals (A2).
-2. TBA
+2. Early conclusions for analysis (from Exercise 2).
+3. Identifying deficiencies in current analysis.
+4. Remedial measures to refine analysis.
+   - Designing micro test cases.
+5. Final conclusions from analysis.
+6. Brief Introduction to order of growth (Theta notation)
 
 ### Week 3 Exercises
-1. TBA
+1. Identifying algorithms around us.
