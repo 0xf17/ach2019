@@ -97,13 +97,14 @@ Each of your assignment will be assessed on following capabilities and dimension
 
 ### Week 3
 1. Discussion of Study proposals (A2).
-2. Early conclusions for analysis (from Exercise 2).
-3. Identifying deficiencies in current analysis.
-4. Remedial measures to refine analysis.
+2. Discussing parameters and hyperparameters for an algorithm.
+3. Early conclusions for analysis (from Exercise 2).
+4. Identifying deficiencies in current analysis.
+5. Remedial measures to refine analysis.
    - Designing micro test cases.
    - Redesign rules to calculate costs.
-5. Final conclusions from analysis.
-6. Brief Introduction to order of growth (Theta notation)
+6. Final conclusions from analysis.
+7. Brief Introduction to order of growth (Theta notation)
 
 ### Week 3 Exercises
-1. Identifying algorithms around us.
+1. Identifying algorithms around us and what determines how good they are.
