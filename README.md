@@ -29,7 +29,7 @@ The theory formalizes the intuition that any design requires significant resourc
     - Name your file as `A1.3-<BinarySearch|MergeSort|QuickSort>-<YourFirstName>.PDF`.
     - Note that A1.2 has two PDF file submissions.
    
-**Date of Submission for A1: 12th October 2019 11:59PM**
+**Date of Submission for A1: ~~12th October 2019 11:59PM~~ 13th October 2019 11:59PM**
 
 ### A2 (Individual Exercise) (30% weightage for your final grade)
 - Final proposal to conduct a analysis study on a context of your choice.
@@ -97,14 +97,25 @@ Each of your assignment will be assessed on following capabilities and dimension
 
 ### Week 3
 1. Discussion of Study proposals (A2).
-2. Discussing parameters and hyperparameters for an algorithm.
-3. Early conclusions for analysis (from Exercise 2).
-4. Identifying deficiencies in current analysis.
-5. Remedial measures to refine analysis.
-   - Designing micro test cases.
-   - Redesign rules to calculate costs.
-6. Final conclusions from analysis.
-7. Brief Introduction to order of growth (Theta notation)
+2. Reworking on Day 1 exercise.
+3. ~~Discussing parameters and hyperparameters for an algorithm.~~
+4. ~~Early conclusions for analysis (from Exercise 2).~~
+5. ~~Identifying deficiencies in current analysis.~~
+6. ~~Remedial measures to refine analysis.~~
+   - ~~Designing micro test cases.~~
+   - ~~Redesign rules to calculate costs.~~
+7. ~~Final conclusions from analysis.~~
+8. ~~Brief Introduction to order of growth (Theta notation)~~
 
 ### Week 3 Exercises
-1. Identifying algorithms around us and what determines how good they are.
+1. ~~Identifying algorithms around us and what determines how good they are.~~
+
+### Week 4
+1. Discussing parameters and hyperparameters for an algorithm.
+2. Early conclusions for analysis (from Exercise 2).
+3. Identifying deficiencies in current analysis.
+4. Remedial measures to refine analysis.
+   - Designing micro test cases.
+   - Redesign rules to calculate costs.
+5. Final conclusions from analysis.
+6. Brief Introduction to order of growth (Theta notation)
