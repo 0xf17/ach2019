@@ -119,3 +119,10 @@ Each of your assignment will be assessed on following capabilities and dimension
    - Redesign rules to calculate costs.
 5. Final conclusions from analysis.
 6. Brief Introduction to order of growth (Theta notation)
+
+### Week 4 Exercises
+1. Identifying algorithms around us and what determines how good they are.
+   - https://www.vanderbilt.edu/olli/class-materials/InnovativeThinkingSession1.pdf
+   - https://99percentinvisible.org
+   - The Hidden Algorithms That Power Your Everyday Life - https://www.youtube.com/watch?v=fJuVlmfW5ns
+   
