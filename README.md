@@ -125,4 +125,4 @@ Each of your assignment will be assessed on following capabilities and dimension
    - https://www.vanderbilt.edu/olli/class-materials/InnovativeThinkingSession1.pdf
    - https://99percentinvisible.org
    - The Hidden Algorithms That Power Your Everyday Life - https://www.youtube.com/watch?v=fJuVlmfW5ns
-   
+2. Using binary search analyis done in previous exercises, identify gaps in prediction by relevant methods and redesign the rules to count arithmetic steps and using that, predict the runtimes again. (Group activity)
