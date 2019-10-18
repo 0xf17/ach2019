@@ -43,7 +43,7 @@ The theory formalizes the intuition that any design requires significant resourc
 - Submission format. PDF file containing all the above list of deliverables.
 - Name your file as `A2-<TitleOfYourStudy>-<YourFirstName>.PDF`.
 
-**Date of Submission for A2: 19th October 2019 11:59PM**
+**Date of Submission for A2: ~**19th October 2019 11:59PM**~ **20th October 2019 11:59PM**
 
 ## Assessment
 Following are assessment criteria for this studio.
