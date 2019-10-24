@@ -45,6 +45,11 @@ The theory formalizes the intuition that any design requires significant resourc
 
 **Date of Submission for A2: ~**19th October 2019 11:59PM**~ **20th October 2019 11:59PM**
 
+### A3 (Individual Exercise) (40% weightage for your final grade)
+- Deliverables will be published soon.
+
+**Date of Submission for A3: **2nd November 2019 11:59PM**
+
 ## Assessment
 Following are assessment criteria for this studio.
 
@@ -126,3 +131,17 @@ Each of your assignment will be assessed on following capabilities and dimension
    - https://99percentinvisible.org
    - The Hidden Algorithms That Power Your Everyday Life - https://www.youtube.com/watch?v=fJuVlmfW5ns
 2. Using binary search analyis done in previous exercises, identify gaps in prediction by relevant methods and redesign the rules to count arithmetic steps and using that, predict the runtimes again. (Group activity)
+
+### Week 5
+1. Introduction to Asymptotic and Amortized complexity (Theta, BigO, BigOmega)
+2. Models of computation
+   - Sequential, Functional, Concurrent models
+   - Brief chat about Classical computing vs Quantum computing
+3. Impact factor of algorithms
+   - Measuring algorithms by not its parameters but by real world parameters
+4. Ways to express algorithms
+   - High-level description, Pseudocode and Flowcharts
+2. Discussing A3 progress
+
+### Week 5 Exercises
+No specific exercise for this week. You will continue to work on your final assignment.
