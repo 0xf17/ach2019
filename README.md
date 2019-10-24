@@ -143,7 +143,8 @@ Each of your assignment will be assessed on following capabilities and dimension
    - Measuring algorithms by not its parameters but by real world parameters
 4. Ways to express algorithms
    - High-level description, Pseudocode and Flowcharts
-2. Discussing A3 progress
+5. Video on Algorithmic Bias/Ethics
+6. Discussing A3 progress
 
 ### Week 5 Exercises
 No specific exercise for this week. You will continue to work on your final assignment.
