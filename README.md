@@ -124,6 +124,8 @@ Each of your assignment will be assessed on following capabilities and dimension
    - Redesign rules to calculate costs.
 5. Final conclusions from analysis.
 6. Brief Introduction to order of growth (Theta notation)
+7. Answering questions for MIT Moral Machine
+8. Mindfield video on Real world Trolley Problem
 
 ### Week 4 Exercises
 1. Part 1: Identifying algorithms around us and what determines how good they are.
