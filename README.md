@@ -46,7 +46,17 @@ The theory formalizes the intuition that any design requires significant resourc
 **Date of Submission for A2: ~**19th October 2019 11:59PM**~ **20th October 2019 11:59PM**
 
 ### A3 (Individual Exercise) (40% weightage for your final grade)
-- Deliverables will be published soon.
+- Single PDF file containing the following
+  - Final proposal sent in A2
+  - Documentation of conducted study
+    - Detailed protocol of how you plan to conduct the study - This is a detailed version of your study plan in A2 proposal.
+    - Documentation of each of conducted sub-study (similar to test case)
+      - Objective
+      - Photographs from field/theory (if any)
+      - Observations from study
+      - Analysis/Summary of results (Graphs, insights, etc.)
+    - Consolidated summary from all the conducted sub-studies.
+  - Reflective note (Optional)      
 
 **Date of Submission for A3: **2nd November 2019 11:59PM**
 
