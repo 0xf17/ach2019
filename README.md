@@ -43,7 +43,7 @@ The theory formalizes the intuition that any design requires significant resourc
 - Submission format. PDF file containing all the above list of deliverables.
 - Name your file as `A2-<TitleOfYourStudy>-<YourFirstName>.PDF`.
 
-**Date of Submission for A2: ~**19th October 2019 11:59PM**~ **20th October 2019 11:59PM**
+**Date of Submission for A2: ~19th October 2019 11:59PM~ 20th October 2019 11:59PM**
 
 ### A3 (Individual Exercise) (40% weightage for your final grade)
 - Single PDF file containing the following
@@ -56,9 +56,10 @@ The theory formalizes the intuition that any design requires significant resourc
       - Observations from study
       - Analysis/Summary of results (Graphs, insights, etc.)
     - Consolidated summary from all the conducted sub-studies.
-  - Reflective note (Optional)      
+  - Reflective note (Optional)
+- Name your file as `A3-<TitleOfYourStudy>-<YourFirstName>.PDF`.
 
-**Date of Submission for A3: **2nd November 2019 11:59PM**
+**Date of Submission for A3: 2nd November 2019 11:59PM**
 
 ## Assessment
 Following are assessment criteria for this studio.
